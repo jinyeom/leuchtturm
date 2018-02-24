@@ -62,7 +62,7 @@ class GridWorld(object):
           
     def R(self, s):
         """ Reward function """
-        return [-1, -1, 50, -50][self._m[s]]
+        return [0, 0, 1, -1][self._m[s]]
     
     def T(self, s, a):
         """ Transition function """
