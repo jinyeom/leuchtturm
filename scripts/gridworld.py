@@ -25,23 +25,13 @@ class GridWorld(object):
             raise TypeError("GridWorld map must be a 2D numpy.ndarray")
         self._m = m
         self._r, self._c = m.shape
-        self._V = np.zeros((self._r, self._c))
-        self._Q = np.zeros((self._r, self._c, 4))
        
-    def __getitem__(self, i, j):
-        return self._m[i][j]
+    def __getitem__(self, s):
+        return self._m[s]
     
     @property
     def M(self):
         return deepcopy(self._m)
-    
-    @property
-    def V(self):
-        return deepcopy(self._V)
-    
-    @property
-    def Q(self):
-        return deepcopy(self._Q)
     
     @property
     def S(self):
@@ -52,13 +42,6 @@ class GridWorld(object):
     @property
     def shape(self):
         return self._r, self._c
-    
-    def set_V(self, s, v):
-        self._V[s] = v
-    
-    def set_Q(self, s, a, q):
-        self._Q[s][a] = q
-        self._V[s] = np.max(self._Q[s])
           
     def R(self, s):
         """ Reward function """
@@ -82,16 +65,18 @@ class GridWorld(object):
             next_i, next_j = s
         return next_i, next_j
     
-    def done(self, s):
+    def is_terminal(self, s):
         """ Check if the argument state is a terminal state. """
         if self._m[s] == GOAL or self._m[s] == FIRE:
             return True
         return False
         
-    def show(self):
+    def show(self, policy=None):
         """ Print the map """
         def sym(i, j):
-            return [" ", "#", "o", "x"][self._m[i][j]]
+            if policy is None:
+                return [" ", "#", "o", "x"][self._m[i][j]]
+            return ["^", ">", "v", "<"][np.argmax(policy[i][j])]     
         print("-".join(["+" for j in range(self._c + 1)]))
         for i in range(self._r):
             print("|%s|" % "|".join(["%s" % sym(i, j) for j in range(self._c)]))
