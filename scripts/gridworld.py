@@ -43,9 +43,10 @@ class GridWorld(object):
     def shape(self):
         return self._r, self._c
           
-    def R(self, s):
+    def R(self, s, a):
         """ Reward function """
-        return [0, 0, 1, -1][self._m[s]]
+        s_ = self.T(s, a)
+        return [0, 0, 1, -1][self._m[s_]]
     
     def T(self, s, a):
         """ Transition function """
