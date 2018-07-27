@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 *.pyc
 datasets
+models
 .DS_Store
