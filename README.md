@@ -1,4 +1,4 @@
-# Notebooks
+# LEUCHTTURM
 Author: Jin Yeom (jinyeom@utexas.edu)
 
 ## Contents
