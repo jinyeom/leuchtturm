@@ -1,4 +1,4 @@
-<img src="LEUCHTTURM.svg" align=right width=20%></img>
+<img src="LEUCHTTURM.svg" align=right width=10%></img>
 # LEUCHTTURM
 
 ## Contents
