@@ -1,5 +1,5 @@
+<img src="LEUCHTTURM.svg" align=right width=20%></img>
 # LEUCHTTURM
-Author: Jin Yeom (jinyeom@utexas.edu)
 
 ## Contents
 - [Linear Systems and Differential Equations](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Linear%20Systems%20and%20Differential%20Equations/Linear%20Systems%20and%20Differential%20Equations.ipynb)
