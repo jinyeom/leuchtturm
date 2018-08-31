@@ -14,4 +14,4 @@
 - [HyperNetworks](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/HyperNetworks/HyperNetworks.ipynb)
 - [Deep Q-Learning](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Deep%20Q-Learning/Deep%20Q-Learning.ipynb)
 - [Neural Arithmetic Logic Units](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Neural%20Arithmetic%20Logic%20Units/Neural%20Arithmetic%20Logic%20Units.ipynb)
-- Evolving Plastic Neural Networks (planned)
+- [Deep Neuroevolution](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Deep%20Neuroevolution/Deep%20Neuroevolution.ipynb)
