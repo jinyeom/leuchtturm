@@ -1,3 +1,4 @@
+<img src="LEUCHTTURM.svg" align=right width=10%></img>
 # LEUCHTTURM
 Author: Jin Yeom (jinyeom@utexas.edu)
 
