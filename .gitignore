@@ -1,5 +1,4 @@
 .ipynb_checkpoints
-.ltrc.json
 *.pyc
 datasets
 models
