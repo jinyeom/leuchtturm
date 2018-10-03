@@ -5,8 +5,6 @@ Author: Jin Yeom (jinyeom@utexas.edu)
 ## Contents
 Notebook | Number of cells (log2)
 -------- | ----------------------
-[AWS SageMaker](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/AWS%20SageMaker/AWS%20SageMaker.ipynb) | :memo:
-[Algorithms](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Algorithms/Algorithms.ipynb) | :memo:
 [College Admissions and the Stability of Marriage](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/College%20Admissions%20and%20the%20Stability%20of%20Marriage/College%20Admissions%20and%20the%20Stability%20of%20Marriage.ipynb) | :memo::memo::memo::memo:
 [Deep Neuroevolution](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Deep%20Neuroevolution/Deep%20Neuroevolution.ipynb) | :memo::memo::memo::memo:
 [Deep Q-Learning](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Deep%20Q-Learning/Deep%20Q-Learning.ipynb) | :memo::memo::memo::memo:
