@@ -21,3 +21,4 @@ Notebook | Number of cells (log2)
 [Proximal Policy Optimization Algorithms](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Proximal%20Policy%20Optimization%20Algorithms/Proximal%20Policy%20Optimization%20Algorithms.ipynb) | :memo::memo::memo::memo:
 [Reinforcement Learning](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Reinforcement%20Learning/Reinforcement%20Learning.ipynb) | :memo::memo::memo::memo::memo:
 [VAE for MapleStory Character Generation](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/VAE%20for%20MapleStory%20Character%20Generation/VAE%20for%20MapleStory%20Character%20Generation.ipynb) | :memo::memo::memo::memo::memo:
+[Variational Autoencoder](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Variational%20Autoencoder/Variational%20Autoencoder.ipynb) | :memo::memo::memo::memo:
