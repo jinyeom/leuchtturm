@@ -2,5 +2,4 @@
 *.pyc
 datasets
 models
-results
 .DS_Store
