@@ -10,7 +10,7 @@ Notebook | Number of cells (log2)
 [Deep Neuroevolution](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Deep%20Neuroevolution/Deep%20Neuroevolution.ipynb) | :memo::memo::memo::memo:
 [Deep Q-Learning](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Deep%20Q-Learning/Deep%20Q-Learning.ipynb) | :memo::memo::memo::memo:
 [Geometric Numerical Integration](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Geometric%20Numerical%20Integration/Geometric%20Numerical%20Integration.ipynb) | :memo::memo:
-[HyperNetworks](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/HyperNetworks/HyperNetworks.ipynb) | :memo::memo::memo::memo::memo:
+[HyperNetworks](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/HyperNetworks/HyperNetworks.ipynb) | :memo::memo::memo::memo:
 [Image-to-Image Translation via CycleGAN](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Image-to-Image%20Translation%20via%20CycleGAN/Image-to-Image%20Translation%20via%20CycleGAN.ipynb) | :memo::memo::memo::memo::memo:
 [Linear Systems and Differential Equations](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Linear%20Systems%20and%20Differential%20Equations/Linear%20Systems%20and%20Differential%20Equations.ipynb) | :memo::memo::memo:
 [Multi-objective Optimization with NSGA-II](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Multi-objective%20Optimization%20with%20NSGA-II/Multi-objective%20Optimization%20with%20NSGA-II.ipynb) | :memo::memo::memo:
