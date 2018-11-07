@@ -22,7 +22,6 @@ Notebook | Number of cells (log2)
 [Pokedex Analysis](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Pokedex%20Analysis/Pokedex%20Analysis.ipynb) | :memo::memo::memo::memo::memo:
 [Proximal Policy Optimization Algorithms](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Proximal%20Policy%20Optimization%20Algorithms/Proximal%20Policy%20Optimization%20Algorithms.ipynb) | :memo::memo::memo::memo:
 [Reinforcement Learning](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Reinforcement%20Learning/Reinforcement%20Learning.ipynb) | :memo::memo::memo::memo::memo:
-[TensorFlow Implementation of A3C](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/TensorFlow%20Implementation%20of%20A3C/TensorFlow%20Implementation%20of%20A3C.ipynb) | :memo::memo:
 [VAE for MapleStory Character Generation](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/VAE%20for%20MapleStory%20Character%20Generation/VAE%20for%20MapleStory%20Character%20Generation.ipynb) | :memo::memo::memo::memo::memo:
 [Variational Autoencoder](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Variational%20Autoencoder/Variational%20Autoencoder.ipynb) | :memo::memo::memo::memo:
 [Winner Winner Chicken Dinner!](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Winner%20Winner%20Chicken%20Dinner!/Winner%20Winner%20Chicken%20Dinner!.ipynb) | :memo::memo::memo::memo:
