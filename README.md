@@ -20,6 +20,7 @@ Notebook | Number of cells (log2)
 [Neural Processes](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Neural%20Processes/Neural%20Processes.ipynb) | :memo::memo::memo::memo:
 [Neural Relational Inference for Interacting Systems](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Neural%20Relational%20Inference%20for%20Interacting%20Systems/Neural%20Relational%20Inference%20for%20Interacting%20Systems.ipynb) | :memo::memo::memo::memo::memo:
 [Pokedex Analysis](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Pokedex%20Analysis/Pokedex%20Analysis.ipynb) | :memo::memo::memo::memo::memo:
+[Procedural Generation Algorithms](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Procedural%20Generation%20Algorithms/Procedural%20Generation%20Algorithms.ipynb) | :memo::memo::memo:
 [Proximal Policy Optimization Algorithms](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Proximal%20Policy%20Optimization%20Algorithms/Proximal%20Policy%20Optimization%20Algorithms.ipynb) | :memo::memo::memo::memo:
 [Reinforcement Learning](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Reinforcement%20Learning/Reinforcement%20Learning.ipynb) | :memo::memo::memo::memo::memo:
 [VAE for MapleStory Character Generation](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/VAE%20for%20MapleStory%20Character%20Generation/VAE%20for%20MapleStory%20Character%20Generation.ipynb) | :memo::memo::memo::memo::memo:
