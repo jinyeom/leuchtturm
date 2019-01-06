@@ -15,8 +15,8 @@ Notebook | Number of cells (log2)
 [Linear Systems and Differential Equations](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Linear%20Systems%20and%20Differential%20Equations/Linear%20Systems%20and%20Differential%20Equations.ipynb) | :memo::memo::memo:
 [Multi-objective Optimization with NSGA-II](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Multi-objective%20Optimization%20with%20NSGA-II/Multi-objective%20Optimization%20with%20NSGA-II.ipynb) | :memo::memo::memo:
 [NBA Analysis](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/NBA%20Analysis/NBA%20Analysis.ipynb) | :memo::memo::memo::memo:
-[Neural Arithmetic Logic Units](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Neural%20Arithmetic%20Logic%20Units/Neural%20Arithmetic%20Logic%20Units.ipynb) | :memo::memo::memo:
-[Neural Language Models](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Neural%20Language%20Models/Neural%20Language%20Models.ipynb) | :memo::memo::memo:
+[Neural Arithmetic Logic Units](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Neural%20Arithmetic%20Logic%20Units/Neural%20Arithmetic%20Logic%20Units.ipynb) | :memo::memo:
+[Neural Information Processing Systems](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Neural%20Information%20Processing%20Systems/Neural%20Information%20Processing%20Systems.ipynb) | :memo:
 [Neural Processes](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Neural%20Processes/Neural%20Processes.ipynb) | :memo::memo::memo::memo:
 [Neural Relational Inference for Interacting Systems](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Neural%20Relational%20Inference%20for%20Interacting%20Systems/Neural%20Relational%20Inference%20for%20Interacting%20Systems.ipynb) | :memo::memo::memo::memo::memo:
 [Pokedex Analysis](https://nbviewer.jupyter.org/github/jinyeom/LEUCHTTURM/blob/master/Pokedex%20Analysis/Pokedex%20Analysis.ipynb) | :memo::memo::memo::memo::memo:
