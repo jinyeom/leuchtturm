@@ -1,11 +1,11 @@
 {
     "name": "LEUCHTTURM",
     "author": "Jin Yeom",
-    "author_email": "jinyeom@utexas.edu",
+    "author_email": "jinseok.yeom@hudl.com",
     "author_github_id": "jinyeom",
     "contents": [
         "Algorithms",
-        "Anatomically Constrained Deep Convolutional Neural Networks",
+	"A Unified Theory of Early Visual Representations",
         "College Admissions and the Stability of Marriage",
         "Deep Neuroevolution",
         "Deep Q-Learning",
